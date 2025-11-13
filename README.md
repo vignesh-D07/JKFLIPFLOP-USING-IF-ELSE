@@ -1,5 +1,5 @@
 # JKFLIPFLOP-USING-IF-ELSE
-
+# DATE : 13-11-2025
 **AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
@@ -37,12 +37,19 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
+<img width="563" height="137" alt="Screenshot 2025-10-16 204529" src="https://github.com/user-attachments/assets/747e3dc1-0a70-4a19-97bf-550aee621e6e" />
+
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+<img width="1167" height="563" alt="Screenshot 2025-10-16 204549" src="https://github.com/user-attachments/assets/74731697-36e8-42fa-bffb-c94a56a85587" />
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1176" height="599" alt="Screenshot 2025-10-16 204615" src="https://github.com/user-attachments/assets/fe25e9e7-6536-469d-b9a3-6783bd851cd2" />
+
 
 **RESULTS**
+Thus the basic logic gates are studied and the truth table are verified
